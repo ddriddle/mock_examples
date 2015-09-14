@@ -1,0 +1,3 @@
+# This code calls ldap ...
+def validate_sam_account_name(sam_account_name):
+    return False
